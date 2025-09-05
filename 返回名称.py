@@ -216,7 +216,7 @@ name_list = [i for i in name_big]
 # 获取完整信息
 full_info = return_Name(name_list, return_full_info=True)
 #print("完整信息:", full_info)
-print(str(full_info))
+"""print(str(full_info))"""
 # 获取名称组件
 """name_components = return_Name(name_list)
 print("名称组件:", name_components)
